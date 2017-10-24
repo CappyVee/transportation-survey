@@ -1,3 +1,19 @@
+body {
+  font-family: 'Josefin Sans', sans-serif;
+}
+
 #work-responses {
   display: none;
+}
+
+#fun-responses {
+  display: none;
+}
+
+input {
+  padding-bottom: 20px;
+}
+.jumbotron {
+  text-align: center;
+  background-color: lightblue;
 }
